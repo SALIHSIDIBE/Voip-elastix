@@ -107,12 +107,9 @@ Le serveur **Elastix** joue le rôle de **proxy SIP** : toutes les extensions so
 ```
 voip-elastix/
 │
-├── README.md               # Ce fichier
+├── README.md               
 ├── rapport/
 │   └── Projet_de_fin_etude.pdf   # Rapport complet (33 pages)
-└── docs/
-    ├── architecture_voip.png     # Schéma architecture
-    └── extensions_list.png       # Captures des extensions créées
 ```
 
 ---
