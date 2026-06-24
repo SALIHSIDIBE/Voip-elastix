@@ -2,7 +2,7 @@
 
 > Rapport de fin d'études — Spécialité : Réseaux Informatiques & Télécommunications  
 > Université de l'Unité Africaine (UUA) — Année académique 2023/2024  
-> Auteurs : **KAMBOU Louis Arthur** & **SIDIBE Sâlih**
+> Auteurs : **SIDIBE Sâlih**
 
 ---
 
@@ -127,7 +127,6 @@ Voip-elastix/
 | Nom | LinkedIn |
 |---|---|
 | **SIDIBE Salih** | [linkedin.com/in/salih-sidibe](https://linkedin.com/in/salih-sidibe) |
-| **KAMBOU Louis Arthur** | — |
 
 ---
 
