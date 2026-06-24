@@ -105,11 +105,11 @@ Le serveur **Elastix** joue le rôle de **proxy SIP** : toutes les extensions so
 ## 📁 Structure du projet
 
 ```
-voip-elastix/
+Voip-elastix/
 │
 ├── README.md               
-├── rapport/
-│   └── Projet_de_fin_etude.pdf   # Rapport complet (33 pages)
+└── rapport/
+     └── Projet_de_fin_etude.pdf   # Rapport complet (33 pages)
 ```
 
 ---
