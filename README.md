@@ -2,7 +2,7 @@
 
 > Rapport de fin d'études — Spécialité : Réseaux Informatiques & Télécommunications  
 > Université de l'Unité Africaine (UUA) — Année académique 2023/2024  
-> Auteurs : **KAMBOU Louis Arthur** & **SIDIBE Salih**
+> Auteurs : **KAMBOU Louis Arthur** & **SIDIBE Sâlih**
 
 ---
 
