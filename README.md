@@ -31,8 +31,8 @@ Mise en œuvre d'un réseau **VoIP sécurisé** en environnement virtuel, utilis
 ## 🏗️ Architecture déployée
 
 ```
-[X-Lite / 3CX Phone]  ←──SIP──→  [Serveur Elastix PBX]  ←──SIP──→  [ZoiPer (mobile)]
-       (Softphones PC)                  (IP: 192.168.43.254)              (Téléphones physiques)
+X-Lite / 3CX Phone  ←──SIP──→  Serveur Elastix PBX  ←──SIP──→  ZoiPer (mobile)
+ (Softphones PC)               (IP: 192.168.43.254)           (Téléphones physiques)
 ```
 
 Le serveur **Elastix** joue le rôle de **proxy SIP** : toutes les extensions sont enregistrées sur lui. Lorsqu'un client veut appeler un autre, il compose le numéro d'extension, le serveur vérifie les enregistrements et établit la connexion.
