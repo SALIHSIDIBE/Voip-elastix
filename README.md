@@ -130,4 +130,4 @@ Voip-elastix/
 
 ---
 
-> 📅 Projet réalisé dans le cadre du rapport de fin d'études — Licence Réseaux & Télécommunications — UUA Ouagadougou — 2023/2024
+> 📅 Projet réalisé dans le cadre du rapport de fin d'études — Licence Réseaux & Télécommunications — UUA Ouagadougou — 2023/2024.
