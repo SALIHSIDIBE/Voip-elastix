@@ -109,7 +109,7 @@ Voip-elastix/
 │
 ├── README.md               
 └── rapport/
-     └── Projet_de_fin_etude.pdf   # Rapport complet (33 pages)
+     └── Voip-élastix.pdf   # Rapport complet (33 pages)
 ```
 
 ---
